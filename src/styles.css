@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+}
+.default-tab {
+  margin: 0px 10px;
+}
+.default-tab-btns {
+  cursor: pointer;
+}
+.default-page {
+  margin: 0px 10px;
+}
+.current-tab {
+  padding: 10px;
+  height: 200px;
+  border: 1px solid black;
+}
+.Profile-page-inputs {
+  margin: 10px;
+}
+.submit-button {
+  margin: 10px;
+  position: relative;
+  top: 10px;
+}
